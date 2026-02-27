@@ -10,7 +10,7 @@
 #   5. Build real-world mini-programs using both structures.
 # WHY IT MATTERS: Every real application stores groups of data — student names,
 # product prices, user IDs. Lists and Tuples are the two most basic containers
-# Python gives you for holding multiple values in a single variable.
+# Python allows holding multiple values in a single variable.
 # ==============================================================================
 
 SEPARATOR = "=" * 60
