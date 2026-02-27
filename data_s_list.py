@@ -324,9 +324,9 @@ print(f"Total: {sum(grades)}")
 print(f"Average: {sum(grades) / len(grades)}")
 # Output: Average: 87.6
 
-# ------------------------------------------------------------------------------
+# ================================================================================================
 # 3. BUILDING ON PREVIOUS KNOWLEDGE
-# ------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 # This is where we connect Lists with everything you already know.
 # Think of it as building with LEGO — each new block snaps onto the old ones.
 
